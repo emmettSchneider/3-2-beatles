@@ -1,0 +1,2 @@
+# Book 3 Ch 2 Practice: Accessing Property Values
+Given a JS object about the band The Beatles, output the following value to the console by accessing the object's property values: "Paul McCartney was in the Beatles from 1960 to 1970. He was born in 1942. He contributed heavily to the Magical Myster Tour Album."
